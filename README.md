@@ -143,6 +143,10 @@ However, there seems to be no curation for all these awesome HCI + DL/ Human-AI 
 | 2018 | [GAN Lab: Understanding Complex Deep Generative Models using Interactive Visual Experimentation](https://doi.org/10.1109/TVCG.2018.2864500)
 | 2017 | [ActiVis: Visual Exploration of Industry-Scale Deep Neural Network Models](https://doi.org/10.1109/TVCG.2017.2744718)
 
+### The Web Conference (WWW) ###
+| Year | Paper |
+|------|-------------------------------|
+| 2019 | [Augmenting Knowledge Tracing by Considering Forgetting Behavior](https://dl.acm.org/citation.cfm?id=3313565)
 
 
 ### Fairness, Accountability, and Transparency in Machine Learning (FAT/ML) ###
